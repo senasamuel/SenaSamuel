@@ -1,9 +1,10 @@
-### Oi Sou o Samuel Sena. 👋
+### Samuel Sena: Agente Operacional & Estudante de Banco de Dados 
 
+Apaixonado por dados e buscando constantemente aprimorar minhas habilidades em análise e gerenciamento. 
 
-- 🔭 Trabalho na area de segurança.
-- 🌱 Sou estudante de Banco de Dados.
-- 😄 Pronouns: ele/dele.
+-  Agente Operacional com foco em eficiência e organização.
+-  Atualmente cursando Banco de Dados para expandir meu conhecimento e potencializar minha carreira.
+-  Pronouns: ele/dele.
 
 <div align="center">
   <a href="https://github.com/senasamuel">
